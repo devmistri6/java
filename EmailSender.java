@@ -7,11 +7,11 @@ import javax.mail.internet.*;
 public class EmailSender {
 	public static void main(String[] args) {
 
-		String from = "devmistri62@gmail.com";
+		String from = "sending id";
 		
-		String to = "devmistei@gmail.com";
+		String to = "reciever id";
 
-		String password = "iuvx lfse murt wquh";
+		String password = "your password";
 
 		String host = "smtp.gmail.com";
 
